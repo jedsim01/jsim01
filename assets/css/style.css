@@ -1,38 +1,3 @@
-/* ----------------------------------------------------------------------------------------
-* Author        : Aman
-* Template Name : Hamar | Personal Portfolio Template
-* File          : Hamar main css files
-* Version       : 1.0
-* ---------------------------------------------------------------------------------------- */
-
-
-
-
-    
-/* INDEX
-----------------------------------------------------------------------------------------
-
-01. General css
-
-02. Navigation area css
-
-03. Header area css
-
-04. About area css
-
-05. Service area css
-
-06. Portfolio/work area css
-
-07. Testimonial area css
-
-08. Contact area css
-
-09. Footer area css
-
--------------------------------------------------------------------------------------- */
-
-
 
 
 /* ----------------------------------------------------------------------------------------
@@ -388,12 +353,13 @@ img {
 
 .contact-info {
     margin: 0;
-    margin-top: 30px;
+    margin-top: 0px;
     padding: 0;
     list-style: none;
+	
 }
 .contact-info li  {
-    width: 100%;
+    width: 200%;
     clear: both;
     overflow: hidden;
 }
